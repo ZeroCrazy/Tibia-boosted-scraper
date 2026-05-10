@@ -1,0 +1,4 @@
+mysql-connector-python
+playwright
+requests
+beautifulsoup4
